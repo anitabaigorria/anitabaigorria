@@ -3,7 +3,8 @@ Desarrolladora web con experiencia en HTML, CSS, JavaScript, PHP, bases de datos
 
 
 🚀 Visualiza mi portafolio aquí:  
-🔗 [Mi Portafolio](https://anitabaigorria.github.io/mi-portafolio)  
+<a href="https://ejemplo.com" target="_blank" rel="noopener noreferrer">🔗 Mi Portafolio</a>
+
 
 📌 También podés explorar mis proyectos en los repositorios de abajo.  
 💬 ¡Sentite libre de contactarme para colaborar! 😃  
